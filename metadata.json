@@ -1,0 +1,6 @@
+{
+  "name": "시간대별 친환경 전기 사용 알리미",
+  "description": "시간대별 전력 탄소배출계수와 신재생에너지 비중을 확인하고 가전별 최적 사용 시간과 절감 효과를 계산하는 모바일 우선 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
